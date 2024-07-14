@@ -1,7 +1,6 @@
 ---
 layout: default
 title: Введение
-parent: Документация
 nav_order: 2
 ---
 

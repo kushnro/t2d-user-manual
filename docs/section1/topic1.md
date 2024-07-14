@@ -2,7 +2,6 @@
 layout: default
 title: Тема 1
 parent: Раздел 1
-grand_parent: Документация
 nav_order: 1
 ---
 
