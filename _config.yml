@@ -1,3 +1,4 @@
 theme: jekyll-theme-cayman
 title: Руководство пользователя Tele2 Дома
 description: Сайт пользовательской документации, созданный с использованием Markdown и GitHub Pages.
+remote_theme: pmarsceill/just-the-docs
