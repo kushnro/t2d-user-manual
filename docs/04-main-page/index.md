@@ -23,4 +23,5 @@ has_children: true
 
 
 Пример главного экрана:
+
 ![main-page-screen](images/main-page.png)
