@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Авторизация
+title: Вход
 nav_order: 3
 has_children: true
 ---
 
-# Авторизация
+# Вход в приложение (Авторизация)

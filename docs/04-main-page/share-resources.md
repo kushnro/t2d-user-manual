@@ -7,7 +7,7 @@ nav_order: 1
 
 # Услуга делитесь ресурсами
 
-![share-resources-banner](../assets/images/share-resources-banner.png)
+![share-resources-banner](images/share-resources-banner.png)
 
 ### Основное описание:
 
@@ -27,7 +27,7 @@ nav_order: 1
 5. На введенный номер телефона отправится SMS-приглашение с номера 2221 в течении 5 минут;
 6. Приглашенный номер должен отправить в ответ 1, чтобы принять приглашение;
 
-![share-resources-add](/t2d-user-manual/docs/assets/images/share-resources-add.png)
+![share-resources-add](images/share-resources-add.png)
 
 ---
 
