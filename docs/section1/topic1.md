@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Тема 1
-parent: Раздел 1
+parent: Авторизация
 nav_order: 1
 ---
 
