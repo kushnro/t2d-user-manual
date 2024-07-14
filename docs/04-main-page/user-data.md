@@ -1,7 +1,7 @@
 ---
 layout: default
-title: Тема 1
-parent: Раздел 2
+title: Данные пользователя
+parent: Главный экран
 nav_order: 1
 ---
 
