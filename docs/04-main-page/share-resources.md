@@ -7,7 +7,7 @@ nav_order: 1
 
 # Услуга делитесь ресурсами
 
-![share-resources-banner](images/share-resources.png)
+![share-resources-banner](t2d-user-manual/docs/assets/images/share-resources-banner.png)
 
 ### Основное описание:
 
