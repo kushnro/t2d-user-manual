@@ -1,6 +1,6 @@
 ---
 layout: default
-title: Приветствие
+title: Главная страница
 nav_order: 1
 ---
 
