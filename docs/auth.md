@@ -1,7 +1,8 @@
 ---
 layout: default
 title: Авторизация
-nav_order: 2
+nav_order: 1
+parent: Руководство
 ---
 
 # Авторизация
