@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Выход из аккаунта
-parent: Авторизация
+parent: Вход
 nav_order: 3
 ---
 

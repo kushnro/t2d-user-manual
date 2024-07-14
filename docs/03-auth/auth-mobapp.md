@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Авторизация в мобильном приложении
-parent: Авторизация
+parent: Вход
 nav_order: 1
 ---
 

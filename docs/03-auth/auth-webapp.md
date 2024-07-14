@@ -1,7 +1,7 @@
 ---
 layout: default
 title: Авторизация на сайте
-parent: Авторизация
+parent: Вход
 nav_order: 2
 ---
 
