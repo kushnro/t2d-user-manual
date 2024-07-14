@@ -33,8 +33,7 @@ nav_order: 1
 2. Открыть вкладку **Участники**;
 3. Перед вами отображен список активных участников / отправленных приглашений и количество свободных мест. Приглашения тоже занимают место в группе.
 
-> Будет картинка
-<!-- ![share-resources-participants](TBC.PIC) -->
+![share-resources-participants](images/share-resources-participants.png)
 
 ### Отмена отправленного приглашения:
 
@@ -42,8 +41,7 @@ nav_order: 1
 2. Открыть вкладку **Участники**;
 3. Нажать на кнопку **Отменить** возле активного пришлашения (номер телефона с иконкой часов).
 
-> Будет картинка
-<!-- ![share-resources-cancellation](TBC.PIC) -->
+![share-resources-cancellation](images/share-resources-cancellation.png)
 
 ### Удаление активного участника:
 
@@ -52,5 +50,4 @@ nav_order: 1
 3. Нажать на кнопку **Удалить** возле активного участника (номер телефона с иконкой человека);
 4. **Подтвердить** удаление номера из группы.
 
-> Будет картинка
-<!-- ![share-resources-deleting](TBC.PIC) -->
+![share-resources-deleting](images/share-resources-deleting.png)
