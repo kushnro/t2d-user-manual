@@ -7,7 +7,7 @@ nav_order: 1
 
 # Услуга делитесь ресурсами
 
-![share-resources-banner](images/share-resources-banner.png)
+![share-resources-banner](../assets/images/share-resources-banner.png)
 
 ### Описание:
 
@@ -26,7 +26,7 @@ nav_order: 1
 5. На введенный номер телефона отправится SMS-приглашение с номера 2221 в течении 5 минут;
 6. Приглашенный номер должен отправить в ответ 1, чтобы принять приглашение;
 
-![share-resources-add](images/share-resources-add.png)
+![share-resources-add](../assets/images/share-resources-add.png)
 
 ---
 
@@ -36,7 +36,7 @@ nav_order: 1
 2. Открыть вкладку **Участники**;
 3. Перед вами отображен список активных участников / отправленных приглашений и количество свободных мест. Приглашения тоже занимают место в группе.
 
-![share-resources-participants](images/share-resources-participants.png)
+![share-resources-participants](../assets/images/share-resources-participants.png)
 
 ---
 
@@ -46,7 +46,7 @@ nav_order: 1
 2. Открыть вкладку **Участники**;
 3. Нажать на кнопку **Отменить** возле активного пришлашения (номер телефона с иконкой часов).
 
-![share-resources-cancellation](images/share-resources-cancellation.png)
+![share-resources-cancellation](../assets/images/share-resources-cancellation.png)
 
 ---
 
@@ -57,4 +57,4 @@ nav_order: 1
 3. Нажать на кнопку **Удалить** возле активного участника (номер телефона с иконкой человека);
 4. **Подтвердить** удаление номера из группы.
 
-![share-resources-deleting](images/share-resources-deleting.png)
+![share-resources-deleting](../assets/images/share-resources-deleting.png)

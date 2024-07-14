@@ -1,11 +1,13 @@
 ---
 layout: default
 title: Главный экран
-nav_order: 4
+nav_order: 3
 has_children: true
 ---
 
-# Главный экран содержит:
+# Главный экран
+
+
 
 ### Данные клиента:
 
@@ -24,4 +26,4 @@ has_children: true
 
 Пример главного экрана:
 
-![main-page-screen](images/main-page.png)
+![main-page-screen](../assets/images/main-page.png)
