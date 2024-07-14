@@ -7,9 +7,8 @@ nav_order: 1
 # Configuration for the Just the Docs theme
 just_the_docs:
   # Allow to set the ordering of the docs
-  aux_links: {
-    "GitHub Repository": "https://github.com/username/documentation-site"
-  }
+  aux_links:
+    { "GitHub Repository": "https://github.com/username/documentation-site" }
   nav_order: true
   search_enabled: true
   show_last_updated_time: true
