@@ -19,7 +19,7 @@ has_children: true
 - Наименование тарифа
 - Остаток по ресурсам (гигабайты и минуты)
 
-### ![Услуга делитесь ресурсами](share-resources.md)
+### [Услуга делитесь ресурсами](share-resources.md)
 
 > Будет картинка
-![main-page-screen](TBC.PIC)
+![main-page-screen](images/main-page.png)
