@@ -14,4 +14,4 @@ nav_order: 1
 
 [Общее описание приложения](/description.md)
 
-![Баннер Tele2 Дома](/t2d-user-manual/docs/assets/images/Banner.png)
+![Баннер Tele2 Дома](assets/images/Banner.png)
