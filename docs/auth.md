@@ -44,8 +44,7 @@ parent: Руководство
 
 > \*ВАЖНО! 4 и 5 пункты доступны только в мобильном приложении iOS / Android.
 
-> Будет картинка FWA
-![auth-fwa](TBC.PIC)
+![auth-fwa](./assets/images/auth-fwa.png)
 
 ---
 
