@@ -1,8 +1,8 @@
 ---
 layout: default
 title: Делитесь ресурсами
-parent: Руководство
-nav_order: 3
+parent: Главный экран
+nav_order: 2
 ---
 
 # Услуга - Делитесь ресурсами

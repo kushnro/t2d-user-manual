@@ -1,8 +1,8 @@
 ---
 layout: default
-title: Главный экран
-parent: Руководство
-nav_order: 4
+title: Мой тариф
+parent: Главный экран
+nav_order: 1
 ---
 
 # Мой тариф
